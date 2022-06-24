@@ -27,7 +27,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/fajoaq/joaquinc-main
+$ git clone https://github.com/fajoaq/location-app
 
 # Go into the repository
 $ cd joaquinc-main
