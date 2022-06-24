@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://www.joaquinc.com/"><img src="/public/static/site/site-image.png" alt="E-Commerce by Francis Joaquin" width="383"></a>
+  <a href="https://www.joaquinc.com/"><img src="/src/static/img/site-image.png" alt="E-Commerce by Francis Joaquin" width="383"></a>
   <br>
     Location App
   <br>
