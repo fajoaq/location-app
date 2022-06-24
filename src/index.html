@@ -30,7 +30,7 @@ path: home
       x-data="{location: { display_name: '...loading'}}"
       x-init="$watch('data', value => {
         if(value === null) return
-        location = fetch(`http://nominatim.openstreetmap.org/reverse?format=json&lon=${data.lon}&lat=${data.lat}`).then(res => res.json().then(res => {
+        location = fetch(`https://nominatim.openstreetmap.org/reverse?format=json&lon=${data.lon}&lat=${data.lat}`).then(res => res.json().then(res => {
             location = res
             callback(data)
         }))
